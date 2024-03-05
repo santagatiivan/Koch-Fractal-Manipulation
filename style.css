@@ -1,0 +1,24 @@
+/* Basic styling for Koch Fractal Explorer */
+:root {
+    --primary-color: #007BFF;
+    --background-color: #FFFFFF;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: var(--background-color);
+}
+
+header, footer {
+    text-align: center;
+    padding: 20px;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
