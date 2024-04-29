@@ -55,4 +55,24 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - Inspired by the fascinating world of fractals and mathematical beauty.
 - Thanks to the p5.js library for facilitating easy graphical and interactive web development.
 
+## Example Output
+
+Here's a view of the Koch fractals:
+
+### Koch snowflake
+
+![view1](img/snowflake/1.PNG)
+![view2](img/snowflake/2.PNG)
+![view3](img/snowflake/3.PNG)
+![view4](img/snowflake/4.PNG)
+![view5](img/snowflake/5.PNG)
+
+### Koch antisnowflake
+
+![view1](img/antisnowflake/1.PNG)
+![view2](img/antisnowflake/2.PNG)
+![view3](img/antisnowflake/3.PNG)
+![view4](img/antisnowflake/4.PNG)
+![view5](img/antisnowflake/5.PNG)
+
 
